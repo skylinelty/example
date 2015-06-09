@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2015-05-12 10:39:40
+ * @version $Id$
+ */
+body #article {
+	height: 100px;
+	width: 50%;
+	margin: 0 auto;
+	background: blue
+}
