@@ -1,0 +1,26 @@
+			@charset "UTF-8";
+			/**
+			* 
+			* @authors Your Name (you@example.org)
+			* @date    2015-06-05 11:04:25
+			* @version $Id$
+			*/
+			body{
+			font-size: 50px;
+			}
+			#a{
+			margin-left: 0;
+			}
+			p{
+			margin-left: 2em;
+			}
+			h1{
+			margin-left: 10px;
+			}
+			span{
+			height: 100px;
+			width: 100px;
+			}
+			a{
+				color: red;
+			}
